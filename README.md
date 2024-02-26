@@ -1,5 +1,5 @@
 # Tennyson-Shell-Buckling
-Calculate buckling of cylindrical shells analytically with this Matlab script.
+Calculate buckling of composite cylindrical shells analytically with this Matlab script.
 
 Buckling modes of circular cylindrical shells under axial compression.
 
